@@ -1,0 +1,20 @@
+
+processus
+	lourd a lance
+	copie toute la memoire
+	pas de memoire partage
+
+thread 
+	plus rapide 
+	memoire partage
+	Communication direct
+
+data race situation de competition
+	situtation caracterise par un resultat different selon l'ordre dans
+	lequel s'execute l'agent
+
+
+
+
+
+
